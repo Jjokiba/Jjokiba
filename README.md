@@ -39,4 +39,5 @@
  
   ![Snake animation](https://github.com/jjokiba/jjokiba/blob/output/github-contribution-grid-snake.svg)
 </div>
-  [![](https://visitcount.itsvg.in/api?id=Jjokiba&label=Profile%20Views&color=6&icon=1&pretty=false)](https://visitcount.itsvg.in)
+---
+[![](https://visitcount.itsvg.in/api?id=Jjokiba&label=Profile%20Views&color=6&icon=1&pretty=false)](https://visitcount.itsvg.in)
