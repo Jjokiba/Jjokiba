@@ -13,7 +13,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-      
+          target_branch: output
           # list of files to generate.
           # one file per line. Each output can be customized with options as query string.
           #
@@ -25,6 +25,6 @@ jobs:
           #                       Exactly 5 colors are expected.
           #  - color_background:  Color of the background (for gif only)
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            github-contribution-grid-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
