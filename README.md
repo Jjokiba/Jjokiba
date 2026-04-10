@@ -6,8 +6,6 @@
 ## 
 <div align="center">
   <a href="https://github.com/Jjokiba">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jjokiba&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjokiba&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block;text-align-last: center;"><br>
   <img align="center" alt="Jok-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -36,6 +34,6 @@
  
   ![Snake animation](https://github.com/Jjokiba/Jjokiba/blob/output/github-snake-dark.svg)
   ##
-[![](https://visitcount.itsvg.in/api?id=Jjokiba&label=Profile%20Views&color=6&icon=1&pretty=false)](https://visitcount.itsvg.in)
+  [![](https://visitcountpro.netlify.app/api?id=JjokibaIn&pretty=true&color=6)](https://visitcount.itsvg.in)
 </div>
 
