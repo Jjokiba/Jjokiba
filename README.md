@@ -34,6 +34,6 @@
  
   ![Snake animation](https://github.com/Jjokiba/Jjokiba/blob/output/github-snake-dark.svg)
   ##
-  [![](https://visitcountpro.netlify.app/api?id=JjokibaIn&pretty=true&color=6)](https://visitcount.itsvg.in)
+  [![](https://visitcountpro.netlify.app/api?id=JjokibaIn&pretty=true&color=6)](https://github.com/VishwaGauravIn/visit-count-pro)
 </div>
 
